@@ -1,4 +1,4 @@
 PyQt5>=5.12.3
-pycryptodomex<3.7
+pycryptodomex<3.19.1
 websocket-client
 psutil==5.6.1
