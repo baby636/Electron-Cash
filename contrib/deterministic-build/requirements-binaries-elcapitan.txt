@@ -8,7 +8,7 @@ psutil==5.6.1 \
     --hash=sha256:e1494d20ffe7891d07d8cb9a8b306c1a38d48b13575265d090fc08910c56d474 \
     --hash=sha256:ec4b4b638b84d42fc48139f9352f6c6587ee1018d55253542ee28db7480cc653 \
     --hash=sha256:fa0a570e0a30b9dd618bffbece590ae15726b47f9f1eaf7518dfb35f4d7dcd21
-pycryptodomex==3.6.6 \
+pycryptodomex==3.19.1 \
     --hash=sha256:0cf562fc5e5ddbe935bb6162d84a7e46e19edba8ac6609587ab9e78dc7c527d4 \
     --hash=sha256:13b77b7a177a2fd0beb42db84b21d7d4ab646dfd223989a3b5fa6a6901075ae8 \
     --hash=sha256:1baf0d485853cfa8f87c969148dc040ae81a8de3dcaaeb07b3f40a90ab2ac637 \
