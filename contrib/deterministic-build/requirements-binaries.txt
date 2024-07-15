@@ -61,7 +61,7 @@ PyQt5-sip==12.7.0 \
     --hash=sha256:da69ba17f6ece9a85617743cb19de689f2d63025bf8001e2facee2ec9bcff18f \
     --hash=sha256:ef3c7a0bf78674b0dda86ff5809d8495019903a096c128e1f160984b37848f73 \
     --hash=sha256:fabff832046643cdb93920ddaa8f77344df90768930fbe6bb33d211c4dcd0b5e
-setuptools==41.0.1 \
+setuptools==70.0.0 \
     --hash=sha256:a222d126f5471598053c9a77f4b5d4f26eaa1f150ad6e01dcf1a42e185d05613 \
     --hash=sha256:c7769ce668c7a333d84e17fe8b524b1c45e7ee9f7908ad0a73e1eda7e6a5aebf
 six==1.12.0 \
